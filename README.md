@@ -1,9 +1,16 @@
-Boas vindas ao meu perfil 💙💙
-Meu nome é Camila Lopes 
+<link
+        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>Aluraflix</title>
+    <title>Guiminamflix</title>
+</head>
 
-°Estou estudando na Alura
-°Estou me desenvolvendo na linguagem JavaScript
-°Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-  
-  Você pode entrar em contato comigo 📫
-00001111977604SP@al.educacao.sp.gov.br
+<body>
+    <header>ALURAFLIX</header>
+    <header>GUIMINAMFLIX</header>
+
+    <section class="chamada">
+        <div class="chamada-texto">
+6 commit comments
+Comments
+6
